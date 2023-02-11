@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! My name is Ruslan and I am a junior front-end developer.
+My technology stack:
 
 <!--
 **Ruslan321532/Ruslan321532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-My name is Ruslan and I am a junior front-end developer. I am currently studying backend development.
+My name is Ruslan and I am a strong junior Full Stack developer. I am currently studying backend development.
 
 * ✉️  You can contact me at [ruslanburalkiev8@gmail.com](mailto:ruslanburalkiev8@gmail.com)
 * 🧠  I'm learning Backend development

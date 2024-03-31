@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ruslan Buralkiev</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
-<img align="center" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="center" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" >
 
+<h1 align="center">Hi 👋, I'm Ruslan Buralkiev</h1>
+<h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
+<img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslan321532&label=Profile%20views&color=0e75b6&style=flat" alt="ruslan321532" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruslan321532" alt="ruslan321532" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/atlantismolodes" target="blank"><img src="https://img.shields.io/twitter/follow/atlantismolodes?logo=twitter&style=for-the-badge" alt="atlantismolodes" /></a> </p>
+
+- 🌱 I’m currently learning **Frontend & Backend Development**
+
+- 💬 Ask me about **React & Next?)**
+
+- 📫 How to reach me **ruslanburalkiev8@gmail.com**
+
+- 📄 Know about my experiences [https://ruslan321532.github.io/Ruslan-s-Cv/](https://ruslan321532.github.io/Ruslan-s-Cv/)
+
+- ⚡ Fun fact **Started his first job at age 15**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

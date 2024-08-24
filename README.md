@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://atlantis2k.github.io/Ruslan-s-Cv/](https://atlantis2k.github.io/Ruslan-s-Cv/)
 
-- ⚡ Fun fact **Started his first job at age 15**
+- ⚡ Fun fact **Started his first job at age 14**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
